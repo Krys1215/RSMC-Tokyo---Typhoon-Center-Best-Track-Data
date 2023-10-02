@@ -1,7 +1,7 @@
 # RSMC-Tokyo---Typhoon-Center-Best-Track-Data  
 Tropical cyclone information provided by Japan Meteorological Agency(JMA)   
 
-![Tropical Cyclone Thumbnail]([https://www.example.com/images/openai-logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/1280px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg))
+![Tropical Cyclone Thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/1280px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg)
 
 
 **RSMC Tropical Cyclone Information**  
